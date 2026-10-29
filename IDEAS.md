@@ -1,5 +1,7 @@
 # Claude Code Side Business Ideas
 
+For step-by-step build guides for each offer, see [PLAYBOOK.md](PLAYBOOK.md).
+
 ## Your edge
 Small businesses can't afford big consulting firm rates, but they still need that kind of thinking: clean processes, good reporting, solid controls. You can deliver it with Claude Code for a fraction of the price. Some tooling already exists in your setup (meeting minutes, exec summaries, risk registers, market sizing, and the Invisible Expert / Ghosted Glory ghostwriting skills).
 
